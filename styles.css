@@ -190,7 +190,7 @@ p {
 
 h1 {
   margin: 0;
-  font-size: clamp(2.8rem, 7vw, 7.2rem);
+  font-size: clamp(2.8rem, 7vw, 5.5rem);
   line-height: 0.95;
   letter-spacing: 0;
 }
